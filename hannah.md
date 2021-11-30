@@ -9,3 +9,7 @@ Here are some awesome people in our class
 -Regina
 -Hannah
 -Kirk
+
+*This is in italics*
+
+**This is in bold**
