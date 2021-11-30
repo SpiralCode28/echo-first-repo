@@ -20,5 +20,5 @@ I am adding code to `GitHub`
 - $ git status (Shows information)
 - $ git add . (adds file)
 - $ git commit -m "descriptive message"
-- $ git push origin Main
+- $ git push origin main
 ```
