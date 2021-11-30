@@ -9,6 +9,7 @@ Here are some awesome people in our class
 - Regina
 - Hannah
 - Kirk
+
 Newest names added to the list
 - John Budd
 - Frank
@@ -26,4 +27,4 @@ I am adding code to `GitHub`
 - $ git push origin main
 ```
 
-[This is our super helpful syllabus](https://github.com/learn-academy-2021-echo/Syllabus)
+[This is our super helpful syllabus!](https://github.com/learn-academy-2021-echo/Syllabus)
