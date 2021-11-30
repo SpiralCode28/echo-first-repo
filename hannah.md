@@ -9,6 +9,9 @@ Here are some awesome people in our class
 - Regina
 - Hannah
 - Kirk
+Newest names added to the list
+- John Budd
+- Frank
 
 *This is in italics*
 
@@ -22,7 +25,3 @@ I am adding code to `GitHub`
 - $ git commit -m "descriptive message"
 - $ git push origin main
 ```
-
-I would like to add names to the list above.
-- John Budd
-- Frank
