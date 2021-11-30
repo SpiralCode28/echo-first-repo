@@ -25,3 +25,5 @@ I am adding code to `GitHub`
 - $ git commit -m "descriptive message"
 - $ git push origin main
 ```
+
+[This is our super helpful syllabus](https://github.com/learn-academy-2021-echo/Syllabus)
