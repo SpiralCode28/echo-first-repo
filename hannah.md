@@ -15,3 +15,10 @@ Here are some awesome people in our class
 **This is in bold**
 
 I am adding code to `GitHub`
+
+```
+- $ git status (Shows information)
+- $ git add . (adds file)
+- $ git commit -m "descriptive message"
+- $ git push origin Main
+```
